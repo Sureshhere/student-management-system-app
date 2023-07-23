@@ -1,0 +1,353 @@
+Roll Number, Name,Year and Semester,Section,Maths Marks,Java Marks,DAA Marks,DAP Marks,Total Marks,Pass/Fail
+2111cs030091,Aarav Gupta, 2-2,data science,77,84,59,82,302,Pass
+2111cs030092,Aishwarya Joshi, 2-2,data science,80,81,73,87,321,Pass
+2111cs030093,Rishitha, 2-2,data science,83,76,61,80,300,Pass
+2111cs030094,Amit Mehra, 2-2,data science,69,83,60,80,292,Pass
+2111cs030095,Ananya Pandey, 2-2,data science,62,79,72,82,295,Pass
+2111cs030096,Bharat, 2-2,data science,79,82,67,78,306,Pass
+2111cs030097,Arjun Rao, 2-2,data science,72,89,71,82,314,Pass
+2111cs030098,Divya Sharma, 2-2,data science,75,80,64,76,295,Pass
+2111cs030099,Sai daragani, 2-2,data science,62,78,67,78,285,Pass
+2111cs030100,Isha Verma, 2-2,data science,76,92,69,87,324,Pass
+2111cs030101,Ravi Gupta, 2-2,data science,67,77,25,78,247,Pass
+2111cs030102,Deepika Joshi, 2-2,data science,78,93,29,88,288,Pass
+2111cs030103,Rahul Kumar, 2-2,data science,82,83,45,25,235,Pass
+2111cs030104,Sai reddy, 2-2,data science,83,79,27,29,218,Fail
+2111cs030105,Saisaketh, 2-2,data science,63,25,35,45,168,Fail
+2111cs030106,Gowtham, 2-2,data science,70,29,70,27,196,Fail
+2111cs030107,Suman Rao, 2-2,data science,81,45,62,35,223,Fail
+2111cs030108,Sanjay Sharma, 2-2,data science,65,27,63,78,233,Pass
+2111cs030109,Rajesh Singh, 2-2,data science,82,35,69,77,263,Pass
+2111cs030110,Kavita Verma, 2-2,data science,74,87,66,88,315,Pass
+2111cs030111,Aditya Gupta, 2-2,data science,63,88,56,76,283,Pass
+2111cs030112,Smita Joshi, 2-2,data science,76,77,70,87,310,Pass
+2111cs030113,Satwika, 2-2,data science,69,89,69,82,309,Pass
+2111cs030114,Nisha Mehra, 2-2,data science,64,90,59,85,298,Pass
+2111cs030115,Manish Pandey, 2-2,data science,68,25,68,86,247,Pass
+2111cs030116,Priya Patel, 2-2,data science,80,29,57,76,242,Pass
+2111cs030117,Sujata Rao, 2-2,data science,77,45,57,85,264,Pass
+2111cs030118,Rajat Sharma, 2-2,data science,73,27,61,77,238,Pass
+2111cs030119,Pooja Singh, 2-2,data science,84,35,61,77,257,Pass
+2111cs030120,Shivasai Chandra, 2-2,data science,63,77,63,77,280,Pass
+2111cs030121,Shivam singh, 2-2,data science,81,78,61,86,306,Pass
+2111cs030122,Swati Joshi, 2-2,data science,69,76,63,76,284,Pass
+2111cs030123,Shivas , 2-2,data science,67,79,25,76,247,Pass
+2111cs030124,Ritu Mehra, 2-2,data science,64,77,29,84,254,Pass
+2111cs030125,Shubham Pandey, 2-2,data science,78,82,45,25,230,Pass
+2111cs030126,Jaya Patel, 2-2,data science,61,83,27,29,200,Fail
+2111cs030127,Kiran Sharma, 2-2,data science,75,94,35,45,249,Pass
+2111cs030128,Sushma Singh, 2-2,data science,82,84,67,27,260,Pass
+2111cs030129,Vijay Verma, 2-2,data science,70,86,67,35,258,Pass
+2111cs030130,Vishal Gupta, 2-2,data science,73,76,58,77,284,Pass
+2111cs030131,Kathik, 2-2,data science,81,81,55,88,305,Pass
+2111cs030132,Srinivas goud, 2-2,data science,68,93,72,77,310,Pass
+2111cs030133,Suresh Choudhary, 2-2,data science,64,82,58,78,282,Pass
+2111cs030134,P.Suresh , 2-2,data science,77,25,55,85,242,Pass
+2111cs030135,Nidhi Patel, 2-2,data science,65,29,61,76,231,Pass
+2111cs030136,Harish Rao, 2-2,data science,81,45,60,88,274,Pass
+2111cs030137,Rekha Sharma, 2-2,data science,73,27,25,87,212,Fail
+2111cs030138,Meenu Singh, 2-2,data science,76,35,29,76,216,Fail
+2111cs030139,Rajeev Verma, 2-2,data science,62,92,45,78,277,Pass
+2111cs030140,Anita Gupta, 2-2,data science,25,88,27,82,222,Fail
+2111cs030141,Tejasri, 2-2,data science,29,91,35,87,242,Pass
+2111cs030142,Rani Kumar, 2-2,data science,45,81,68,86,280,Pass
+2111cs030143,Kunal Mehra, 2-2,data science,27,79,63,85,254,Pass
+2111cs030144,Mona Pandey, 2-2,data science,35,86,56,85,262,Pass
+2111cs030145,Kunal Patel, 2-2,data science,84,75,67,87,313,Pass
+2111cs030146,Vivek Rao, 2-2,data science,80,85,64,76,305,Pass
+2111cs030147,Preeti Sharma, 2-2,data science,68,94,61,88,311,Pass
+2111cs030148,Arun Singh, 2-2,data science,74,89,25,77,265,Pass
+2111cs030149,Rashmi Verma, 2-2,data science,62,76,29,85,252,Pass
+2111cs030150,Rajendra Gupta, 2-2,data science,67,88,45,78,278,Pass
+2111cs030151,Seema Joshi, 2-2,data science,83,90,27,86,286,Pass
+2111cs030152,Shalini Kumar, 2-2,data science,77,78,35,82,272,Pass
+2111cs030153,Rajesh Mehra, 2-2,data science,71,83,65,76,295,Pass
+2111cs030154,Sudhir Pandey, 2-2,data science,63,25,65,85,238,Pass
+2111cs030155,Sapna Patel, 2-2,data science,72,29,66,77,244,Pass
+2111cs030156,Neha Rao, 2-2,data science,66,45,57,82,250,Pass
+2111cs030157,Ashish Sharma, 2-2,data science,75,27,71,25,198,Fail
+2111cs030158,Geeta Singh, 2-2,data science,82,35,61,29,207,Fail
+2111cs030159,Alok Verma, 2-2,data science,67,77,63,45,252,Pass
+2111cs030160,Sonia Gupta, 2-2,data science,63,80,59,27,229,Fail
+2111cs030161,Rohini Joshi, 2-2,data science,73,25,60,35,193,Fail
+2111cs030162,Santosh Kumar, 2-2,data science,66,29,54,85,234,Pass
+2111cs030163,Sonam Mehra, 2-2,data science,74,45,68,82,269,Pass
+2111cs030164,Amit Pandey, 2-2,data science,69,27,63,88,247,Pass
+2111cs030165,Priyanka Patel, 2-2,data science,64,35,61,78,238,Pass
+2111cs030166,Anita Rao, 2-2,data science,80,84,60,87,311,Pass
+2111cs030167,Arun Sharma, 2-2,data science,71,82,66,78,297,Pass
+2111cs030168,Kirti Singh, 2-2,data science,82,87,25,87,281,Pass
+2111cs030169,Naveen Verma, 2-2,data science,79,83,29,87,278,Pass
+2111cs030170,Manisha Gupta, 2-2,data science,66,76,45,78,265,Pass
+2111cs030171,Vishwas, 2-2,data science,83,91,27,78,279,Pass
+2111cs030172,Sanjay Kumar, 2-2,data science,65,80,35,86,266,Pass
+2111cs030173,Shikha Mehra, 2-2,data science,81,88,68,87,324,Pass
+2111cs030174,Vijay Pandey, 2-2,data science,76,93,59,77,305,Pass
+2111cs030175,Anjali Patel, 2-2,data science,62,78,67,88,295,Pass
+2111cs030176,Akshay Rao, 2-2,data science,75,75,54,25,229,Fail
+2111cs030177,Anju Sharma, 2-2,data science,68,83,65,29,245,Pass
+2111cs030178,Rajesh Verma, 2-2,data science,79,89,68,45,281,Pass
+2111cs030179,Nisha Gupta, 2-2,data science,63,81,58,27,229,Fail
+2111cs030180,Srinivas Shetty, 2-2,data science,82,25,66,35,208,Fail
+2111cs030181,Karthik Pillai, 2-2,it,76,29,57,78,240,Pass
+2111cs030182,Ananya Rajan, 2-2,it,70,45,61,78,254,Pass
+2111cs030183,Deepa Nair, 2-2,it,72,27,55,86,240,Pass
+2111cs030184,Ganesh Iyer, 2-2,it,67,35,61,85,248,Pass
+2111cs030185,Krishna Chowdhury, 2-2,it,80,86,62,77,305,Pass
+2111cs030186,Shalini Panicker, 2-2,it,63,78,66,88,295,Pass
+2111cs030187,Rajesh Sharma, 2-2,it,84,93,69,82,328,Pass
+2111cs030188,Arun Reddy, 2-2,it,77,81,70,87,315,Pass
+2111cs030189,Kavitha Menon, 2-2,it,74,77,64,76,291,Pass
+2111cs030190,Manoj Sundaram, 2-2,it,69,88,56,85,298,Pass
+2111cs030191,Suresh Prasad, 2-2,it,66,92,25,86,269,Pass
+2111cs030192,Vijay Khan, 2-2,it,82,79,29,76,266,Pass
+2111cs030193,Priya Chatterjee, 2-2,it,71,76,45,77,269,Pass
+2111cs030194,Meera Kumar, 2-2,it,75,83,27,86,271,Pass
+2111cs030195,Divya Gowda, 2-2,it,61,81,35,78,255,Pass
+2111cs030196,Shanthi Rao, 2-2,it,78,77,68,87,310,Pass
+2111cs030197,Shyam Murthy, 2-2,it,64,90,55,78,287,Pass
+2111cs030198,Prakash Singh, 2-2,it,69,85,68,76,298,Pass
+2111cs030199,Saraswati Nair, 2-2,it,77,78,75,85,315,Pass
+2111cs030200,Anand Rajan, 2-2,it,65,93,62,88,308,Pass
+2111cs030201,Anjali Nair, 2-2,it,83,84,76,78,321,Pass
+2111cs030202,Krishna Murthy, 2-2,it,76,86,67,77,306,Pass
+2111cs030203,Priyanka Gowda, 2-2,it,25,80,78,86,269,Pass
+2111cs030204,Sumanth Shetty, 2-2,it,29,75,93,78,275,Pass
+2111cs030205,Rahul Sharma, 2-2,it,45,85,78,85,293,Pass
+2111cs030206,Anushka Gupta, 2-2,it,27,65,75,87,254,Pass
+2111cs030207,Kiran Kumar, 2-2,it,35,95,83,76,289,Pass
+2111cs030208,Rita Mehra, 2-2,it,76,83,89,77,325,Pass
+2111cs030209,Vikram Rao, 2-2,it,83,25,81,86,275,Pass
+2111cs030210,Neha Kapoor, 2-2,it,79,29,25,85,218,Fail
+2111cs030211,Amita Singh, 2-2,it,82,45,29,78,234,Pass
+2111cs030212,Prakash Mehta, 2-2,it,89,27,45,87,248,Pass
+2111cs030213,Rajeshwari Iyer, 2-2,it,80,35,27,25,167,Fail
+2111cs030214,Manoj Kumar, 2-2,it,78,62,35,29,204,Fail
+2111cs030215,Sneha Nair, 2-2,it,92,76,86,45,299,Pass
+2111cs030216,Vishnu Menon, 2-2,it,77,67,78,27,249,Pass
+2111cs030217,Anita Choudhary, 2-2,it,93,78,93,35,299,Pass
+2111cs030218,Alok Verma, 2-2,it,83,82,81,80,326,Pass
+2111cs030219,Swati Desai, 2-2,it,79,83,25,80,267,Pass
+2111cs030220,Sanjay Gupta, 2-2,it,86,63,29,82,260,Pass
+2111cs030221,Shalini Sharma, 2-2,it,91,70,45,78,284,Pass
+2111cs030222,Ajay Kapoor, 2-2,it,82,25,27,82,216,Fail
+2111cs030223,Jyoti Patel, 2-2,it,75,29,35,25,164,Fail
+2111cs030224,Rakesh Verma, 2-2,it,84,45,83,29,241,Pass
+2111cs030225,Anand Menon, 2-2,it,87,27,81,45,240,Pass
+2111cs030226,Madhavi Rao, 2-2,it,88,35,77,27,227,Fail
+2111cs030227,Rajiv Deshmukh, 2-2,it,77,76,90,35,278,Pass
+2111cs030228,Sarita Khanna, 2-2,it,89,69,85,76,319,Pass
+2111cs030229,Aman Malhotra, 2-2,it,90,64,78,76,308,Pass
+2111cs030230,Smita Bhatia, 2-2,it,82,68,93,87,330,Pass
+2111cs030231,Ashok Rao, 2-2,it,93,80,84,80,337,Pass
+2111cs030232,Anjali Saxena, 2-2,it,82,77,86,86,331,Pass
+2111cs030233,Mukesh Srinivasan, 2-2,it,80,73,80,78,311,Pass
+2111cs030234,Rachna Nair, 2-2,it,88,84,59,77,308,Pass
+2111cs030235,Vijay Deshpande, 2-2,it,77,63,73,88,301,Pass
+2111cs030236,Shikha Kapoor, 2-2,it,78,81,61,76,296,Pass
+2111cs030237,Vinod Menon, 2-2,it,76,69,60,87,292,Pass
+2111cs030238,Asha Sharma, 2-2,it,79,67,72,82,300,Pass
+2111cs030239,Anirudh Iyer, 2-2,it,77,64,67,85,293,Pass
+2111cs030240,Rani Joshi, 2-2,it,82,78,71,86,317,Pass
+2111cs030241,Shikha Kapoor, 2-2,it,83,61,64,76,284,Pass
+2111cs030242,Aman Malhotra, 2-2,it,94,75,67,85,321,Pass
+2111cs030243,Kavita Khanna, 2-2,it,84,82,69,77,312,Pass
+2111cs030244,Sujata Rao, 2-2,it,86,70,64,77,297,Pass
+2111cs030245,Rashmi Verma, 2-2,it,76,73,54,77,280,Pass
+2111cs030246,Sumanth Shetty, 2-2,it,81,81,70,86,318,Pass
+2111cs030247,Jasmin Reddy, 2-2,it,93,68,73,76,310,Pass
+2111cs030248,Vinod Menon, 2-2,it,82,64,64,76,286,Pass
+2111cs030249,Naveen Verma, 2-2,it,87,77,70,84,318,Pass
+2111cs030250,Smita Bhatia, 2-2,it,78,65,62,78,283,Pass
+2111cs030251,Rupal Joshi, 2-2,it,85,81,63,76,305,Pass
+2111cs030252,Manish Srinivasan, 2-2,it,83,73,69,78,303,Pass
+2111cs030253,Prakash Mehta, 2-2,it,76,76,66,82,300,Pass
+2111cs030254,Pradeep Gupta, 2-2,it,92,62,56,76,286,Pass
+2111cs030255,Rajesh Srinivasan, 2-2,it,88,80,25,77,270,Pass
+2111cs030256,Mona Pandey, 2-2,it,91,68,29,88,276,Pass
+2111cs030257,Geeta Menon, 2-2,it,81,79,45,77,282,Pass
+2111cs030258,Anjali Saxena, 2-2,it,79,62,27,25,193,Fail
+2111cs030259,Rahul Nair, 2-2,it,86,65,35,29,215,Fail
+2111cs030260,Divya Kapoor, 2-2,it,75,84,57,45,261,Pass
+2111cs030261,Anita Choudhary, 2-2,iot,85,80,61,27,253,Pass
+2111cs030262,Sangeeta Nair, 2-2,iot,94,68,61,35,258,Pass
+2111cs030263,Shyam Murthy, 2-2,iot,89,74,63,76,302,Pass
+2111cs030264,Anita Gupta, 2-2,iot,76,62,61,78,277,Pass
+2111cs030265,Rajiv Deshmukh, 2-2,iot,88,25,63,82,258,Pass
+2111cs030266,Shalini Panicker, 2-2,iot,90,29,54,87,260,Pass
+2111cs030267,Megha Desai, 2-2,iot,78,45,66,86,275,Pass
+2111cs030268,Ankit Bhatia, 2-2,iot,83,27,25,85,220,Fail
+2111cs030269,Shalini Sharma, 2-2,iot,81,35,29,85,230,Pass
+2111cs030270,Pallavi Menon, 2-2,iot,77,72,45,87,281,Pass
+2111cs030271,Sarita Khanna, 2-2,iot,93,66,27,25,211,Fail
+2111cs030272,Vijay Deshpande, 2-2,iot,76,75,35,29,215,Fail
+2111cs030273,Prashant Malhotra, 2-2,iot,94,82,58,45,279,Pass
+2111cs030274,Priya Chatterjee, 2-2,iot,77,67,55,27,226,Fail
+2111cs030275,Asha Sharma, 2-2,iot,80,63,72,35,250,Pass
+2111cs030276,Rita Mehra, 2-2,iot,84,73,58,86,301,Pass
+2111cs030277,Kavitha Menon, 2-2,iot,88,66,55,82,291,Pass
+2111cs030278,Kiran Mehta, 2-2,iot,89,74,61,76,300,Pass
+2111cs030279,Mukesh Srinivasan, 2-2,iot,76,69,60,85,290,Pass
+2111cs030280,Vishnu Menon, 2-2,iot,93,64,58,77,292,Pass
+2111cs030281,Shikha Mehra, 2-2,iot,84,80,65,82,311,Pass
+2111cs030282,Rachna Nair, 2-2,iot,82,71,61,77,291,Pass
+2111cs030283,Ananya Iyer, 2-2,iot,87,82,67,78,314,Pass
+2111cs030284,Meera Kumar, 2-2,iot,83,79,69,86,317,Pass
+2111cs030285,Rahul Sharma, 2-2,iot,76,66,25,77,244,Pass
+2111cs030286,Gagan Malhotra, 2-2,iot,91,83,29,87,290,Pass
+2111cs030287,Sudhir Pandey, 2-2,iot,80,65,45,85,275,Pass
+2111cs030288,Vijay Khan, 2-2,iot,88,25,27,82,222,Fail
+2111cs030289,Rani Joshi, 2-2,iot,93,29,35,88,245,Pass
+2111cs030290,Asha Deshmukh, 2-2,iot,78,45,61,78,262,Pass
+2111cs030291,Rashmi Menon, 2-2,iot,75,27,70,87,259,Pass
+2111cs030292,Alok Verma, 2-2,iot,83,35,68,78,264,Pass
+2111cs030293,Harshith Taylor, 2-2,iot,89,79,62,87,317,Pass
+2111cs030294,Sonam Carter, 2-2,iot,81,63,58,87,289,Pass
+2111cs030295,Preeti Adams, 2-2,iot,82,82,55,78,297,Pass
+2111cs030296,Priyanka Martinez, 2-2,iot,87,76,65,78,306,Pass
+2111cs030297,Gayatri Taylor, 2-2,iot,84,70,65,86,305,Pass
+2111cs030298,Varun King, 2-2,iot,79,72,66,87,304,Pass
+2111cs030299,Rohini Taylor, 2-2,iot,90,67,57,77,291,Pass
+2111cs030300,Varun Wright, 2-2,iot,86,25,71,88,270,Pass
+2111cs030301,Avinash Moore, 2-2,iot,78,29,61,82,250,Pass
+2111cs030302,Manisha Mehra, 2-2,iot,93,45,63,76,277,Pass
+2111cs030303,Deepa Scott, 2-2,iot,81,27,59,77,244,Pass
+2111cs030304,Anita Young, 2-2,iot,77,35,60,78,250,Pass
+2111cs030305,Geeta Scott, 2-2,iot,88,69,54,85,296,Pass
+2111cs030306,Aishwarya Davis, 2-2,iot,92,66,68,78,304,Pass
+2111cs030307,Anita King, 2-2,iot,79,82,63,25,249,Pass
+2111cs030308,Rajat Taylor, 2-2,iot,76,71,61,29,237,Pass
+2111cs030309,Shanthi Clark, 2-2,iot,83,75,60,45,263,Pass
+2111cs030310,Manoj Clark, 2-2,iot,81,61,66,27,235,Pass
+2111cs030311,Kunal Thomas, 2-2,iot,77,78,61,35,251,Pass
+2111cs030312,Deepika Wright, 2-2,iot,90,64,70,82,306,Pass
+2111cs030313,Madhu Anderson, 2-2,iot,85,69,57,87,298,Pass
+2111cs030314,Suresh Harris, 2-2,iot,78,77,61,76,292,Pass
+2111cs030315,Krishna Hall, 2-2,iot,93,65,25,85,268,Pass
+2111cs030316,Arun White, 2-2,iot,84,83,29,86,282,Pass
+2111cs030317,Divya Lewis, 2-2,iot,86,76,45,76,283,Pass
+2111cs030318,Seema Carter, 2-2,cyber security,80,62,27,77,246,Pass
+2111cs030319,Anjali Young, 2-2,cyber security,84,80,35,86,285,Pass
+2111cs030320,Rajesh Kumar, 2-2,cyber security,81,68,65,78,292,Pass
+2111cs030321,Ashish Moore, 2-2,cyber security,76,59,68,87,290,Pass
+2111cs030322,Deepa Taylor, 2-2,cyber security,83,73,58,78,292,Pass
+2111cs030323,Prakash White, 2-2,cyber security,79,61,66,76,282,Pass
+2111cs030324,Suresh King, 2-2,cyber security,82,60,57,85,284,Pass
+2111cs030325,Rajeev Martinez, 2-2,cyber security,89,72,61,88,310,Pass
+2111cs030326,Shikha Adams, 2-2,cyber security,80,67,25,78,250,Pass
+2111cs030327,Anita Lee, 2-2,cyber security,78,71,29,77,255,Pass
+2111cs030328,Deepthi Walker, 2-2,cyber security,92,64,45,86,287,Pass
+2111cs030329,Raghavendra Young, 2-2,cyber security,77,67,27,78,249,Pass
+2111cs030330,Nithya Carter, 2-2,cyber security,93,69,35,85,282,Pass
+2111cs030331,Ankit Wright, 2-2,cyber security,83,25,70,87,265,Pass
+2111cs030332,Anita Taylor, 2-2,cyber security,79,29,64,25,197,Fail
+2111cs030333,Anju Phillips, 2-2,cyber security,86,45,56,29,216,Fail
+2111cs030334,Ananya Wilson, 2-2,cyber security,91,27,59,45,222,Fail
+2111cs030335,Gayatri Rao, 2-2,cyber security,82,35,60,27,204,Fail
+2111cs030336,Aravind Taylor, 2-2,cyber security,75,70,68,35,248,Pass
+2111cs030337,Neha Thompson, 2-2,cyber security,84,62,54,87,287,Pass
+2111cs030338,Raghav Lee, 2-2,cyber security,87,63,25,77,252,Pass
+2111cs030339,Rajendra Lopez, 2-2,cyber security,88,69,29,86,272,Pass
+2111cs030340,Amit Moore, 2-2,cyber security,77,66,45,78,266,Pass
+2111cs030341,Rashmi Clark, 2-2,cyber security,89,56,27,25,197,Fail
+2111cs030342,Ankit Harris, 2-2,cyber security,90,70,35,29,224,Fail
+2111cs030343,Nandini Allen, 2-2,cyber security,82,69,73,45,269,Pass
+2111cs030344,Rohit Jackson, 2-2,cyber security,93,59,61,27,240,Pass
+2111cs030345,Sonam Clark, 2-2,cyber security,82,68,60,35,245,Pass
+2111cs030346,Vijaya Moore, 2-2,cyber security,80,57,80,78,295,Pass
+2111cs030347,Amit Mehra, 2-2,cyber security,88,57,77,82,304,Pass
+2111cs030348,Ananya Thompson, 2-2,cyber security,77,61,73,76,287,Pass
+2111cs030349,Aravind Green, 2-2,cyber security,78,61,84,78,301,Pass
+2111cs030350,Gaurav Mitchell, 2-2,cyber security,76,63,63,87,289,Pass
+2111cs030351,Pooja Walker, 2-2,cyber security,79,61,25,78,243,Pass
+2111cs030352,Neha Lewis, 2-2,cyber security,77,63,29,88,257,Pass
+2111cs030353,Sangeeta Wilson, 2-2,cyber security,82,25,45,76,228,Fail
+2111cs030354,Nidhi Mehra, 2-2,cyber security,83,29,27,76,215,Fail
+2111cs030355,Shalini Thompson, 2-2,cyber security,94,45,35,87,261,Pass
+2111cs030356,Nitin Lewis, 2-2,cyber security,84,27,61,80,252,Pass
+2111cs030357,Kirti Lee, 2-2,cyber security,86,35,75,86,282,Pass
+2111cs030358,Rohit Lewis, 2-2,aiml,76,67,82,78,303,Pass
+2111cs030359,Srinath Lopez, 2-2,aiml,81,67,70,77,295,Pass
+2111cs030360,Santosh Mitchell, 2-2,aiml,93,58,73,88,312,Pass
+2111cs030361,Ashwini Kumar, 2-2,aiml,82,55,81,76,294,Pass
+2111cs030362,Isha Green, 2-2,aiml,25,72,68,87,252,Pass
+2111cs030363,Arun Rao, 2-2,aiml,29,58,64,82,233,Pass
+2111cs030364,Sonam Hill, 2-2,aiml,45,55,25,85,210,Fail
+2111cs030365,Manish Thompson, 2-2,aiml,27,61,29,86,203,Fail
+2111cs030366,Ashwini Jackson, 2-2,aiml,35,60,45,76,216,Fail
+2111cs030367,Shivani Joshi, 2-2,aiml,92,58,27,85,262,Pass
+2111cs030368,Ankit Green, 2-2,aiml,88,65,35,77,265,Pass
+2111cs030369,Ajay Harris, 2-2,aiml,91,61,62,25,239,Pass
+2111cs030370,Harshith Turner, 2-2,aiml,81,67,80,29,257,Pass
+2111cs030371,Rashmi Lewis, 2-2,aiml,79,69,68,45,261,Pass
+2111cs030372,Karishma Gupta, 2-2,aiml,86,25,25,27,163,Fail
+2111cs030373,Manish Lopez, 2-2,aiml,75,29,29,35,168,Fail
+2111cs030374,Shivani Hall, 2-2,aiml,85,45,45,84,259,Pass
+2111cs030375,Kirti Carter, 2-2,aiml,94,27,27,78,226,Fail
+2111cs030376,Pradeep Jackson, 2-2,aiml,89,35,35,76,235,Pass
+2111cs030377,Shivani Lewis, 2-2,aiml,76,61,68,78,283,Pass
+2111cs030378,Rajesh Mitchell, 2-2,aiml,88,70,74,82,314,Pass
+2111cs030379,Priya White, 2-2,aiml,90,25,62,76,253,Pass
+2111cs030380,Ankit Lewis, 2-2,aiml,78,29,67,77,251,Pass
+2111cs030381,Avinash Harris, 2-2,aiml,83,45,83,25,236,Pass
+2111cs030382,Preeti Scott, 2-2,aiml,81,27,77,29,214,Fail
+2111cs030383,Shwetha Martin, 2-2,aiml,77,35,71,45,228,Fail
+2111cs030384,Manish Turner, 2-2,aiml,93,65,63,27,248,Pass
+2111cs030385,Nisha Phillips, 2-2,aiml,76,66,72,35,249,Pass
+2111cs030386,Shubham Clark, 2-2,aiml,94,57,66,88,305,Pass
+2111cs030387,Sneha Martinez, 2-2,aiml,77,71,75,87,310,Pass
+2111cs030388,Prakash Anderson, 2-2,aiml,80,61,82,76,299,Pass
+2111cs030389,Girish Young, 2-2,aiml,84,63,67,78,292,Pass
+2111cs030390,Karthik Davis, 2-2,aiml,88,59,63,82,292,Pass
+2111cs030391,Priya Allen, 2-2,aiml,89,60,25,87,261,Pass
+2111cs030392,Sujata Adams, 2-2,aiml,76,54,29,86,245,Pass
+2111cs030393,Aarav Gupta, 2-2,aiml,93,68,45,85,291,Pass
+2111cs030394,Aishwarya Joshi, 2-2,aiml,84,63,27,85,259,Pass
+2111cs030395,Akash Kumar, 2-2,aiml,82,61,35,25,203,Fail
+2111cs030396,Amit Mehra, 2-2,aiml,87,60,80,29,256,Pass
+2111cs030397,Ananya Pandey, 2-2,aiml,83,25,71,45,224,Fail
+2111cs030398,Ankit Patel, 2-2,aiml,76,29,82,77,264,Pass
+2111cs030399,Arjun Rao, 2-2,aiml,91,45,79,85,300,Pass
+2111cs030400,Divya Sharma, 2-2,aiml,80,27,66,78,251,Pass
+2111cs030401,Gaurav Singh, 2-2,aiml,88,35,83,86,292,Pass
+2111cs030402,Isha Verma, 2-2,aiml,93,54,65,82,294,Pass
+2111cs030403,Ravi Gupta, 2-2,aiml,78,68,81,76,303,Pass
+2111cs030404,Deepika Joshi, 2-2,aiml,75,59,76,85,295,Pass
+2111cs030405,Rahul Kumar, 2-2,aiml,83,67,62,77,289,Pass
+2111cs030406,Sneha Mehra, 2-2,aiml,89,54,75,82,300,Pass
+2111cs030407,Neha Pandey, 2-2,aiml,81,65,68,77,291,Pass
+2111cs030408,Rohan Patel, 2-2,aiml,82,68,79,78,307,Pass
+2111cs030409,Suman Rao, 2-2,aiml,87,58,25,25,195,Fail
+2111cs030410,Sanjay Sharma, 2-2,aiml,84,66,29,29,208,Fail
+2111cs030411,Rajesh Singh, 2-2,aiml,79,57,45,45,226,Fail
+2111cs030412,Kavita Verma, 2-2,aiml,90,61,27,27,205,Fail
+2111cs030413,Aditya Gupta, 2-2,aiml,86,55,35,35,211,Fail
+2111cs030414,Smita Joshi, 2-2,aiml,78,61,67,88,294,Pass
+2111cs030415,Anil Kumar, 2-2,aiml,93,62,80,78,313,Pass
+2111cs030416,Nisha Mehra, 2-2,aiml,81,66,63,87,297,Pass
+2111cs030417,Manish Pandey, 2-2,aiml,77,69,84,78,308,Pass
+2111cs030418,Priya Patel, 2-2,aiml,88,70,77,87,322,Pass
+2111cs030419,Sujata Rao, 2-2,aiml,92,64,74,87,317,Pass
+2111cs030420,Rajat Sharma, 2-2,aiml,79,56,69,78,282,Pass
+2111cs030421,Pooja Singh, 2-2,aiml,76,59,66,78,279,Pass
+2111cs030422,Vikas Verma, 2-2,aiml,83,60,82,86,311,Pass
+2111cs030423,Nitin Gupta, 2-2,aiml,81,68,71,87,307,Pass
+2111cs030424,Swati Joshi, 2-2,aiml,77,54,75,77,283,Pass
+2111cs030425,Varun Kumar, 2-2,aiml,90,62,61,88,301,Pass
+2111cs030426,Ritu Mehra, 2-2,aiml,85,68,78,82,313,Pass
+2111cs030427,Shubham Pandey, 2-2,aiml,78,55,64,25,222,Fail
+2111cs030428,Jaya Patel, 2-2,aiml,93,68,25,29,215,Fail
+2111cs030429,Vivek Rao, 2-2,aiml,84,59,29,45,217,Fail
+2111cs030430,Preeti Sharma, 2-2,aiml,86,73,45,27,231,Pass
+2111cs030431,Arun Singh, 2-2,aiml,80,61,27,35,203,Fail
+2111cs030432,Rashmi Verma, 2-2,aiml,59,60,35,78,232,Pass
+2111cs030433,Rajendra Gupta, 2-2,aiml,73,72,62,86,293,Pass
+2111cs030434,Seema Joshi, 2-2,aiml,61,67,80,85,293,Pass
+2111cs030435,Shalini Kumar, 2-2,aiml,60,71,68,77,276,Pass
+2111cs030436,Rajesh Mehra, 2-2,aiml,77,64,59,88,288,Pass
+2111cs030437,Sudhir Pandey, 2-2,aiml,80,67,73,82,302,Pass
+2111cs030438,Sapna Patel, 2-2,aiml,83,69,61,87,300,Pass
+2111cs030439,Neha Rao, 2-2,aiml,69,64,60,76,269,Pass
+2111cs030440,Ashish Sharma, 2-2,aiml,62,54,72,85,273,Pass
+,,,,,,,,,
+,,,,,,,,,

@@ -1,0 +1,147 @@
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="faculty-al.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+ 
+
+  <title>Document</title>
+
+  <script src="https://cdn.emailjs.com/dist/email.min.js"></script>
+  <script>
+    (function () {
+      emailjs.init('4eADoZRzYEHUAVlKh');
+
+    })();
+  </script>
+
+  <script type="text/javascript">
+   function sendEmail(event) {
+    event.preventDefault(); // Prevent the form from submitting
+
+    emailjs.sendForm('service_xyzrwi9', 'template_5nx8si9', event.target)
+        .then(function () {
+            console.log('SUCCESS!');
+            $('#confirmation-modal').modal('show'); // Show the Bootstrap modal
+            document.getElementById('contact-form').reset(); // Reset the form
+        }, function (error) {
+            console.log('FAILED...', error);
+            alert('Error sending email. Please try again later.');
+        });
+}
+
+  </script>
+</head>
+
+<body>
+  <div class="formbold-main-wrapper">
+    <div class="formbold-form-wrapper">
+      <form id="contact-form" onsubmit="sendEmail(event)">
+        <div class="formbold-mb-5">
+          <label for="name" class="formbold-form-label"> Full Name </label>
+          <input type="text" name="name" id="name" placeholder="Full Name" class="formbold-form-input" />
+        </div>
+        <div class="formbold-mb-5">
+          <label for="roll_number" class="formbold-form-label"> Roll Number </label>
+          <input type="text" name="roll_number" id="roll_number" placeholder="Enter your roll number"
+            class="formbold-form-input" />
+        </div>
+        <div class="formbold-mb-5">
+          <label for="email" class="formbold-form-label"> Email Address </label>
+          <input type="email" name="email" id="email" placeholder="Enter your email" class="formbold-form-input" />
+        </div>
+
+        <div class="flex flex-wrap formbold--mx-3">
+          <div class="w-full sm:w-half formbold-px-3">
+            <div class="formbold-mb-5 w-full">
+              <label for="date" class="formbold-form-label"> Department </label>
+              <select name="department" id="department" class="formbold-form-input">
+                <option value="">Select department</option>
+                <option value="ds">Data Science</option>
+                <option value="aiml">Artificial Intelligence & Machine Learning</option>
+                <option value="cs">Cyber Security</option>
+                <option value="iot">Iot</option>
+                <option value="cse">CSE</option>
+              </select>
+            </div>
+          </div>
+          <div class="w-full sm:w-half formbold-px-3">
+            <div class="formbold-mb-5 w-full">
+              <label for="date" class="formbold-form-label"> Section </label>
+              <select name="section" id="section" class="formbold-form-input">
+                <option value="">Select section</option>
+                <option value="ds">Alpha</option>
+                <option value="aiml">Beta</option>
+                <option value="cs">Gamma</option>
+                <option value="iot">Delta</option>
+                <option value="cse">Epsilon</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="w-full sm:w-half formbold-px-3">
+            <div class="formbold-mb-5 w-full">
+              <label for="date" class="formbold-form-label"> Start Date </label>
+              <input type="date" name="startdate" id="startdate" class="formbold-form-input" />
+            </div>
+          </div>
+          <div class="w-full sm:w-half formbold-px-3">
+            <div class="formbold-mb-5 w-full">
+              <label for="date" class="formbold-form-label"> End Date </label>
+              <input type="date" name="enddate" id="enddate" class="formbold-form-input" />
+            </div>
+          </div>
+
+        </div>
+
+        <div class="formbold-mb-5 formbold-pt-3">
+          <div class="formbold-mb-5">
+            <label for="phone" class="formbold-form-label"> No. of days </label>
+            <input type="text" name="no_of_days" id="phone" placeholder="no. of days" class="formbold-form-input" />
+          </div>
+          <label class="formbold-form-label formbold-form-label-2">
+            Reason For Leave
+          </label>
+          <div class="flex flex-wrap formbold--mx-3">
+            <div class="w-full sm:w-half formbold-px-3">
+              <div class="formbold-mb-5">
+                <textarea class="formbold-form-textarea" name="reason" id="" cols="55" rows="10"></textarea>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div>
+          <button type="submit" class="formbold-btn"  data-bs-toggle="modal" data-bs-target="#exampleModal">Apply for leave</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h1 class="modal-title fs-5" id="exampleModalLabel">Student Leave Letter</h1>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <p>Leave letter has been submitted</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>  
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js" integrity="sha384-fbbOQedDUMZZ5KreZpsbe1LCZPVmfTnH7ois6mU1QK+m14rQ1l2bGBq41eYeM/fS" crossorigin="anonymous"></script>
+
+</body>
+
+</html>
